@@ -3,7 +3,7 @@
 Este proyecto tiene como objetivo la recolección, limpieza, transformación y análisis de dos conjuntos de datos públicos provenientes del portal de datos abiertos del gobierno colombiano.  
 Los datos se procesarán y se cargarán en un entorno de **Databricks** para facilitar su análisis y visualización.
 
-## 📂 Datasets utilizados
+## 📂 Datasets a utilizados
 
 1. **SECOP (Sistema Electrónico para la Contratación Pública)**
    - URL: [rpnr-utcd.csv](https://www.datos.gov.co/resource/rpnr-utcd.csv)
@@ -40,7 +40,7 @@ Los datos se procesarán y se cargarán en un entorno de **Databricks** para fac
 - Databricks CLI o acceso vía navegador
 - Jupyter Notebook o entorno similar
 
-## 🎯 Objetivos
+## 🎯 Objetivos 
 
 - Explorar la relación entre educación y contratación estatal en distintas regiones de Colombia.
 - Identificar patrones, tendencias y posibles zonas de mejora en la inversión pública y cobertura educativa.
